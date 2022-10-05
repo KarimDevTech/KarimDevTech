@@ -1,5 +1,5 @@
 <div id="header" align ="center">
-  <h1 style="align-items:center ;"><img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="200"><br>
+  <h1 style="align-items:center ;"><img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" width="400" height="150"><br>
     Hola👋 Soy Karim</h1>
   <p>Analista de datos y programador en Python y en Java</p>
     <div id="badges" aling ="center">
