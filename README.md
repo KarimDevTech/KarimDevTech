@@ -18,9 +18,11 @@
 
 - 📝 Actualmente estoy formandome para ser Tecnico Superior en Ciencia de Datos e Inteligencia Artificial en el INSTITUTO SUPERIOR POLITÉCNICO CÓRDOBA (ISPC)
 
-- 💬 Soy una persona apasionada por la programación y el análisis de datos,
-soy muy autodidacta, me gusta aprender cada día más,  buscando los medios para superar mis límites y conocimientos.
-Tengo la capacidad de trabajar bajo presión y adaptarme a todo tipo de entorno. Cuento con habilidades para expresar ideas correctamente a los demás y tomar decisiones en equipo de manera eficaz.
+- 💬 Me apasiona lo que hago, y estoy motivado por aprender cada día más.
+Soy muy autodidacta y siempre estoy buscando la posibilidad de mejorar como persona y profesional.
+Tengo la capacidad de trabajar bajo presión y adaptarme a todo tipo de entorno.
+Me considero una persona muy amigable y leal, siempre dispuesto a ayudar a quien lo necesite,
+y con muchas ganas de aprender y trabajar en equipo..
 
 - 📫 Puedes enviarme un mail a **Karim.dev.tech@gmail.com**
 
