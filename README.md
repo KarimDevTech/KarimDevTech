@@ -1,7 +1,7 @@
 <div id="header" align ="center">
-  <h1 style="align-items:center ;"><img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" width="400" height="150"><br>
+  <h1 style="align-items:center ;"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNvOG1pYTZrazNxMDZ4NXk4MWlnMWhmb25haXh0eGtzYnFwYzJscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q2W4hziDOyzu0/giphy.gif" width="400" height="150"><br>
     Hola👋 Soy Karim</h1>
-  <h3>Analista de datos y Desarrollador en Python y en Java</h3>
+  <h3>Analista de datos y Programador en Python y en Java</h3>
     <div id="badges" aling ="center">
     <a href="https://www.linkedin.com/in/marcelokarimjurigaray/" target="_blank">
         <img alt="Linkedin" src="https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&logoColor=blue&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarcelokarimjurigaray%2F">
